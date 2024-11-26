@@ -1,0 +1,2 @@
+creating new file is 3 !!
+"file-3": "I will be deleted"
